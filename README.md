@@ -5,7 +5,7 @@
 
 <img src="https://github.com/user-attachments/assets/7be7be5b-d2e9-4487-b7a1-560d22e592b9" width="250" alt="Profile"/>
 
-<br><br>
+<br>
 
 ## LeeKiBeom
 

@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<img width="1364" height="747" alt="화면 캡처 2026-08-03 104905" src="https://github.com/user-attachments/assets/9028f8bd-7660-4f41-8b6a-6f81629b6880" />
+<img width="460" height="460" alt="108507177" src="https://github.com/user-attachments/assets/7be7be5b-d2e9-4487-b7a1-560d22e592b9" />
+
 
 <!--
 **LeeKiBeom1/LeeKiBeom1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

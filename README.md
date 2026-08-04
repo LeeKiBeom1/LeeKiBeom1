@@ -11,6 +11,8 @@
 
 **AI & Backend Developer**
 
+**📍 South Korea**
+
 </td>
 
 <td width="65%" valign="middle">

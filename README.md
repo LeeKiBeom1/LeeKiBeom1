@@ -84,7 +84,7 @@
 
 `Python` · `YOLOv11` · `OpenCV`
 
-🔗 Repository : *(프로젝트 링크 추가)*
+🔗 Repository : https://github.com/tuna1025/kccistc_YachtDice.git
 
 ---
 

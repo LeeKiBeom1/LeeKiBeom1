@@ -11,7 +11,6 @@
 
 **AI & Backend Developer**
 
-**📍 South Korea**
 
 </td>
 

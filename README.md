@@ -1,6 +1,10 @@
 
 <img width="460" height="460" alt="108507177" src="https://github.com/user-attachments/assets/7be7be5b-d2e9-4487-b7a1-560d22e592b9" />
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&center=true&vCenter=true&width=650&lines=Backend+Developer;Computer+Vision+Developer;Always+Learning+New+Things." />
+</p>
+
 <h1 align="center">안녕하세요 👋</h1>
 
 <p align="center">
@@ -106,7 +110,3 @@ Repository →
 📧 your@email.com
 
 ---
-
-## 📫 Contact
-
-📧 your@email.com

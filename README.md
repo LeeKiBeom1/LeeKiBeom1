@@ -10,16 +10,16 @@ AI와 Backend를 공부하며<br>
 
 ---
 
-## 🙋 About Me
+# 🙋 About Me
 
-- 🌱 Java & Spring Boot 기반 백엔드 개발
+- 💻 Java & Spring Boot 기반 Backend 개발
 - 🤖 Computer Vision / YOLO 프로젝트
 - 🎲 AI 기반 Yacht Dice 자동 점수 계산 시스템 개발
-- 📚 새로운 기술을 배우고 직접 구현하는 것을 좋아합니다.
+- 🚀 새로운 기술을 배우고 직접 구현하는 것을 좋아합니다.
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Language
 
@@ -31,15 +31,15 @@ AI와 Backend를 공부하며<br>
 ### Backend
 
 <p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST API-009688?style=for-the-badge"/>
 </p>
 
-### AI / Vision
+### AI
 
 <p>
-<img src="https://img.shields.io/badge/YOLOv11-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLOv11-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
@@ -54,39 +54,56 @@ AI와 Backend를 공부하며<br>
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
 # 🚀 Featured Project
 
+<table>
+<tr>
+<td width="40%">
+<img src="이미지링크" width="100%">
+</td>
+
+<td width="60%">
+
 ## 🎲 AI Yacht Dice Score System
 
-YOLOv11을 활용하여 주사위를 실시간으로 인식하고 자동으로 점수를 계산하는 프로젝트입니다.
+YOLOv11을 활용하여
 
-**Tech Stack**
+- 🎯 실시간 주사위 인식
+- 🧮 자동 점수 계산
+- ⚡ 빠른 게임 진행
 
-`Python` `YOLOv11` `OpenCV`
+### Tech
+
+Python · YOLOv11 · OpenCV
+
+<a href="https://github.com/본인아이디/레포이름">
+Repository →
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 What I'm Working On
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=transparent"/>
-
-</p>
+- 🌱 Spring Boot
+- 🤖 Computer Vision
+- 📚 Clean Code
+- ⚙️ REST API
 
 ---
 
-## 🏆 Algorithm
+# 📫 Contact
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+📧 your@email.com
 
 ---
 
